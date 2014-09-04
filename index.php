@@ -51,7 +51,7 @@
 						</li>
 						<li class="clearfix">
 							<div>
-								<span><img src="img/photo2.jpg" alt=""> <strong>Patty <em>Hunty</em></strong></span>
+								<span><img src="img/photo2.jpg" alt=""> <strong>Patti <em>Hunty</em></strong></span>
 							</div>
 							<p>Patti is a founder and director of On-off Design &amp; Technology. She has previously held senior positions as User Experience (UX) consultant, Service Designer and Strategic Design Director for companies in Australia and Hong Kong.</p>
 						</li>
