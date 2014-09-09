@@ -9,6 +9,7 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<meta name="author" content="" />
+    <meta name="google-site-verification" content="ZN2H5R2yxhSKtc4PMbKtvuvPiSA44Vxi-CvBqEU8Qek" />
 		<link rel="stylesheet" type="text/css" href="css/styles.css" />
 		<link rel="stylesheet" type="text/css" href="css/fonts.css" />
 	</head>
