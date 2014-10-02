@@ -248,13 +248,22 @@ body {
             text-decoration: none;
         }
 
+.hiddenTabletPhone{ display: block; }
+.hiddenDesktop { display: none; }
+
 @media (min-width:768px) and (max-width: 1023px) {
     .topredbrdr { border-left:62px solid #fff; margin-bottom:36px; }
     .leftbluebrdr { border-top:126px solid #fff; }
     #container { background-size: 94px auto }
+    .hiddenTabletPhone{ display: none; }
+    .hiddenDesktop { display: block; }
+    .alignCenter{ margin: 0 auto; width: 50%; }
 }
 
 @media (min-width:320px) and (max-width: 767px) {
+    .alignCenter{ margin: 0 auto; width: 50%; }
+    .hiddenTabletPhone{ display: none; }
+    .hiddenDesktop { display: block; }
     .topredbrdr {border-left-width:20px; height:10px; border-right-width: 50px; margin-bottom: 30px }
     .wrap { width:auto; padding-right:60px; }
     header.wrap { padding-left:20px;}
