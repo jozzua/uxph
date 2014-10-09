@@ -266,7 +266,7 @@ body {
 }
 
 @media (min-width:320px) and (max-width: 767px) {
-    .alignCenter{ margin: 15px 20px; width: 50%; }
+    .alignCenter{ margin: 0 auto; width: 50%; }
     .hiddenTabletPhone{ display: none; }
     .hiddenDesktop { display: block; }
     .topredbrdr {border-left-width:20px; height:10px; border-right-width: 50px; margin-bottom: 30px }

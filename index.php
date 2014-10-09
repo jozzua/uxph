@@ -1,3 +1,4 @@
+<?php header('Access-Control-Allow-Origin: *'); ?>
 <!DOCTYPE html>
 <html lang="en" class="no-js">
 	<head>
@@ -8,6 +9,7 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<meta name="author" content="" />
+		<meta name="google-site-verification" content="ZN2H5R2yxhSKtc4PMbKtvuvPiSA44Vxi-CvBqEU8Qek" />
 		<link rel="stylesheet" type="text/css" href="css/styles.css" />
 		<link rel="stylesheet" type="text/css" href="css/fonts.css" />
 		<link rel="shortcut icon" href="/img/uxphfavicon.jpg" type="image/x-icon" />
@@ -50,16 +52,11 @@
 					</ul>
 
 					<!-- EventBrite -->
-					<h1>Tickets</h1>
 					<div class="hiddenTabletPhone" style="width:100%; text-align:left;" ><iframe  src="//eventbrite.com/tickets-external?eid=13451912031&ref=etckt" frameborder="0" height="352" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:10px; padding:5px 0 5px; margin:2px; width:100%; text-align:left;" ><a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com/r/etckt">Sell Tickets Online</a> <span style="color:#ddd;">through</span> <a style="color:#ddd; text-decoration:none;" target="_blank" href="http://www.eventbrite.com?ref=etckt">Eventbrite</a></div></div>
 
 					<div class="alignCenter">
 						<a class="hiddenDesktop" href="http://www.eventbrite.com/e/ux-philippines-design-conference-tickets-13451912031?ref=ebtn" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=13451912031" alt="Eventbrite - UX Philippines Design Conference" /></a>
 					</div>
-
-					<div class="copy">
-						<a href="mailto:payment@uxph.co" style="color:#3494e3; text-decoration:underline; font-size: 16px;">If you are unable to pay online, please email: payment@uxph.co</a>
-						</div>
 
 					<div class="about">
 						<h1>About the Event</h1>
@@ -72,7 +69,7 @@
 								<li>Keynote talks 9.30am - 12.30am</li>
 								<li>Workshops 1.45pm - 4.45pm</li>
 								<li>Drinks & Networking 5.30pm - 8 or 9pm</li>
-							</ul>						
+							</ul>
 						<div class="stayupdated">
 							<!-- Begin MailChimp Signup Form -->
 							<link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
