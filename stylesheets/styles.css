@@ -2014,7 +2014,7 @@ small {
 
   .go-down{ display: block; }
 
-  .workshop-note-header{ color: #FFFFFF; background-color: #ff422d; width: 96%; margin: 0 auto; padding-right: 5px !important; padding-left: 5px !important;}
+  .workshop-note-header{ color: #FFFFFF; background-color: #ff422d; width: 100%; margin: 0 auto; padding-right: 5px !important; padding-left: 5px !important;}
 
   .register-note-wrap { font-size: 19px; margin-top: 7px; line-height: 1; }
 
@@ -2035,7 +2035,7 @@ small {
   .eventbrite-saturday { margin-left: -10px; }
 
   .page #sponsors .logo-container div { width: 200px; margin: 0 auto; float: none;}
-  .workshop-note-header { width: 370px; }
+  .workshop-note-header { width: 100%; }
   .page #banner .inline-content #counter { margin-left: 12%; }
 
   #sponsors .media-partner img { max-width: 300px; }
@@ -2060,7 +2060,7 @@ small {
   .hiddenTabletPhone{  display: none; }
 
   .note-3 { margin-left: 10px; margin-top: 20px; }
-  .workshop-note-header { margin-left: -8px; }
+  .workshop-note-header { margin-left: -5px; }
   .register-note-wrap {  line-height: 1.3; }
   .page #banner { width: 21.2em; left: 0; }
 
