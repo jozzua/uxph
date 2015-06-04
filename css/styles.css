@@ -42,6 +42,24 @@ body {
     background:url(../img/bg.gif);
 }
 
+.redbutton {
+  padding-top: 5px;
+  margin-top: 5px;
+  padding-left: 20px;
+  width: 100%;
+}
+.redbutton a {
+  color: white;
+  background-color: #ff432d;
+  margin-top: 19px;
+  padding: 10px;
+  border: none;
+  font-size: 15px;
+  text-decoration:none;
+  line-height:36pt;
+  width: 100%;
+
+}
 
 
 .topredbrdr {
@@ -108,7 +126,7 @@ body {
 
     .on {
         padding-left:226px;
-        color:#ff432d;
+        color: #ff432d;
         font-size: 20px;  
         font-weight: bold;
         display:block;
